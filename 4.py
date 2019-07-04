@@ -1,2 +1,2 @@
-uj=input()
+uk=input()
 print(ord(uk))
