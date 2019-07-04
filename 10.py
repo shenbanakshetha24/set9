@@ -2,5 +2,5 @@ dn=input()
 fo=[]
 for i in dn:
  if(i.isnumeric()):
-  so.append(i)
-print("".join(so))
+  fo.append(i)
+print("".join(fo))
